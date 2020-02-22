@@ -6,6 +6,11 @@
   
   <body>
     <h1>SELAMAT DATANG Di HALAMAN LOGIN</h1>
-    <p>Halaman bertujuan untuk ?????</p>
+    <h2>Haloo</h2>
+    <div class = "container">
+      <div class = "row">
+        
+      </div>
+    </div>
   </body>
 </html>
